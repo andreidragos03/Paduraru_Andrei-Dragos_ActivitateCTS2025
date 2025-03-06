@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/AdapterB5/AdapterB5.iml" filepath="$PROJECT_DIR$/RepetatTest2/AdapterB5/AdapterB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminar6/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Adapter_F4/Adapter_F4.iml" filepath="$PROJECT_DIR$/RepetatTest2/Adapter_F4/Adapter_F4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Builder/Builder.iml" filepath="$PROJECT_DIR$/Seminar5/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderWithAllAttributes/BuilderWithAllAttributes.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderWithAllAttributes/BuilderWithAllAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Seminar11/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/ChainOfResponsibility_B13/ChainOfResponsibility_B13.iml" filepath="$PROJECT_DIR$/RepetatTest2/ChainOfResponsibility_B13/ChainOfResponsibility_B13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Composite_B8/Composite_B8.iml" filepath="$PROJECT_DIR$/RepetatTest2/Composite_B8/Composite_B8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Decorator_F7/Decorator_F7.iml" filepath="$PROJECT_DIR$/RepetatTest2/Decorator_F7/Decorator_F7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Facade_A6/Facade_A6.iml" filepath="$PROJECT_DIR$/RepetatTest2/Facade_A6/Facade_A6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Facade_B6/Facade_B6.iml" filepath="$PROJECT_DIR$/RepetatTest2/Facade_B6/Facade_B6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Flyweight_B10/Flyweight_B10.iml" filepath="$PROJECT_DIR$/RepetatTest2/Flyweight_B10/Flyweight_B10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar10/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Observer_B12/Observer_B12.iml" filepath="$PROJECT_DIR$/RepetatTest2/Observer_B12/Observer_B12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Proxy_B9/Proxy_B9.iml" filepath="$PROJECT_DIR$/RepetatTest2/Proxy_B9/Proxy_B9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest1/RepetatTest1.iml" filepath="$PROJECT_DIR$/RepetatTest1/RepetatTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/RepetatTest2.iml" filepath="$PROJECT_DIR$/RepetatTest2/RepetatTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/Seminar11.iml" filepath="$PROJECT_DIR$/Seminar11/Seminar11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9/Seminar9.iml" filepath="$PROJECT_DIR$/Seminar9/Seminar9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar10/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Strategy_B11/Strategy_B11.iml" filepath="$PROJECT_DIR$/RepetatTest2/Strategy_B11/Strategy_B11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11/Template/Template.iml" filepath="$PROJECT_DIR$/Seminar11/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepetatTest2/Template_B14/Template_B14.iml" filepath="$PROJECT_DIR$/RepetatTest2/Template_B14/Template_B14.iml" />
+    </modules>
+  </component>
+</project>
